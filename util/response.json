@@ -1,0 +1,11 @@
+//Client->Sever
+{
+    "id": "1321-resp",
+    "origin": "client.com",
+    "timestamp": "2014-12-10:10:09:09PST",
+    "controller": "bash",
+    "payload": [
+        "a.tgz",
+        "b.tgz"
+    ]
+}

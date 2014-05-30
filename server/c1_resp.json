@@ -1,0 +1,8 @@
+  PID TTY           TIME CMD
+34526 ttys000    0:00.02 -bash
+34537 ttys001    0:00.18 -bash
+34550 ttys002    0:00.01 -bash
+16743 ttys003    0:00.18 -bash
+57208 ttys003    0:00.21 go run goclient.go
+57212 ttys003    0:00.01 /var/folders/0h/zs5qfp0x03v5nswx3ycm2fh8002fl3/T/go-build059487250/command-line-arguments/_obj/exe/goclient
+28710 ttys004    0:00.18 -bash

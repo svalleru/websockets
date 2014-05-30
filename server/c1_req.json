@@ -1,0 +1,7 @@
+{
+    "Id": "1321-req",
+    "Origin": "server.com",
+    "Timestamp": "2014-12-10:09:09:09PST",
+    "Controller": "bash",
+    "Payload": "ps"
+}

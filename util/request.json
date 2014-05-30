@@ -1,0 +1,10 @@
+//Server->Client
+{
+    "id": "1321-req",
+    "origin": "server.com",
+    "timestamp": "2014-12-10:09:09:09PST",
+    "controller": "bash",
+    "payload": [
+        "ls -ltra"
+    ]
+}
